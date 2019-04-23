@@ -18,7 +18,15 @@ Did work:
 
 ## Extra Credit
 + z-indexing
+![z](../master/readImg/zIndex.png)
++ initial welcome page
+
+![welcome](../master/readImg/welcome.png)
 + total card counter
+
+![total](../master/readImg/total.png)
 + styling
+
+![style](../master/readImg/style-ex.png)
 
 lab3-overlake333 created by GitHub Classroom
