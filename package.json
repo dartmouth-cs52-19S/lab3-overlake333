@@ -39,12 +39,17 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "firebase": "^5.10.0",
+    "immutable": "^4.0.0-rc.12",
     "jquery": "^3.4.0",
     "lodash.debounce": "^4.0.8",
+    "marked": "^0.6.2",
     "postcss-loader": "^3.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-router": "^5.0.0"
+    "react-draggable": "^3.3.0",
+    "react-router": "^5.0.0",
+    "react-textarea-autosize": "^7.1.0"
   },
   "repository": "https://github.com/dartmouth-cs52-19S/starterpack-overlake333",
   "author": "overlake333 <taylor.m.olson.21@dartmouth.edu>"
