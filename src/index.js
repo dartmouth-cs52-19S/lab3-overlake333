@@ -65,7 +65,7 @@ class App extends Component {
         <div id="note-component">
           {this.state.notes.entrySeq().map(([id, note]) => {
             return (
-              <Note id={id} note={note} delete={this.deleteNote} onUpdate={this.updateNote} />
+              <Note id={id} note={note} delete={this.deleteNote} update={this.updateNote} />
             );
           })}
         </div>
